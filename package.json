@@ -1,7 +1,7 @@
 {
   "name": "sci-tokyo-login",
   "displayName": "Science Tokyo Login",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Auto-login for Science Tokyo Portal (Matrix only)",
   "author": "(dew--web<dew--web@rhoast.com>)",
   "scripts": {
