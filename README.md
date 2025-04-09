@@ -14,6 +14,7 @@ https://note.com/cute_echium873/n/n997dcf40b3a1
 https://chromewebstore.google.com/detail/eblknihokjjlfmenbkmialajfjhgdncp?utm_source=item-share-cb
 
 上記のリンクにアクセスしてインストールするだけで導入できます.
+ウェブストアに最新版が反映されるには2-3日ほどかかりますのでご了承ください.
 
 ## 追加検討中の要素
 
